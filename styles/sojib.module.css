@@ -1,0 +1,22 @@
+.banner{
+    background: url('https://i.ibb.co/QmTGVvD/dasbabu.png') no-repeat center center;
+    background-size: cover;
+    
+ 
+    position: relative;
+}
+.Welcome{
+  background-image: url('https://i.ibb.co/SsCQQMT/welcomebg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.gradient {
+    /* background: linear-gradient(to right, #09d12b, #050005); */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: url('https://i.ibb.co/SsCQQMT/welcomebg.jpg');
+  
+    margin-top: 200px;
+   
+  }
